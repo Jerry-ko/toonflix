@@ -1,6 +1,6 @@
 # toonflix
 
-### flutter 공부하기
+flutter 학습용
 
 - Hello, world!
 - UI Challenge
