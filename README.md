@@ -1,4 +1,6 @@
-# toonflix 1
+# toonflix
 
-1. Hello, world!
-2. UI Challenge
+### flutter 공부하기
+
+- Hello, world!
+- UI Challenge
